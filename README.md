@@ -1,1 +1,1 @@
-# Project_EU
+# Project Euler
